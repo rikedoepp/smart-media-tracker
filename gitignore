@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.env.*
+.venv/
+venv/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Streamlit / credentials
+.streamlit/secrets.toml
+*.json  # e.g., service account keys
+
+# Logs
+logs/
+*.log
