@@ -1,5 +1,6 @@
-streamlit
-google-cloud-bigquery
-google-auth
-pandas
-trafilatura
+streamlit>=1.36
+google-cloud-bigquery>=3.25
+google-api-core>=2.19
+requests>=2.32
+beautifulsoup4>=4.12
+ipaddress; python_version<'3.3'
